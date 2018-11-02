@@ -1,0 +1,7 @@
+{
+  "rules" :
+  [
+    ["description", "text"],
+    ["update_date", "mtime"]
+  ]
+}

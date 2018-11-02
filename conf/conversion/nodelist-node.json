@@ -1,0 +1,7 @@
+{
+  "rules" :
+  [
+    ["name", "text"],
+    ["href", "link"]
+  ]
+}

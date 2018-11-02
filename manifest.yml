@@ -1,0 +1,9 @@
+--- 
+applications:
+- name: "Loklak Server"
+  buildpack: "https://github.com/yukiisbored/heroku_buildpack_gradle_loklak.git"
+  description: "Distributed Tweet Search Server"
+  image: "loklak/loklak_server:latest-master"
+  logo: "https://raw.githubusercontent.com/loklak/loklak_server/master/html/images/loklak_anonymous.png"
+  repository: "https://github.com/loklak/loklak_server.git"
+  website: "http://api.loklak.org"
